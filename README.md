@@ -1,117 +1,122 @@
-<h1 align="center">Hi, I'm Swaraj 👋</h1>
-<h3 align="center">Building intelligent systems at the intersection of AI, security, and real-world applications</h3>
+<h1 align="center">Hi, I'm Swaraj</h1>
+<h3 align="center">AI | Systems | Security</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;ML+Developer;Security+Builder;Always+Learning&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;ML+Developer;Security+Builder;Systems+Thinker&center=true&width=520&height=45">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swrjks&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swrjks&theme=tokyonight" />
+</p>
 
 * Computer Science undergraduate (2023–2027)
-* Focused on Machine Learning, Systems, and Cybersecurity
-* Experienced in building end-to-end AI systems and developer tools
-* Strong interest in defense tech, fraud detection, and applied AI
+* Focus: Machine Learning, Systems, Cybersecurity
+* Building real-world AI systems and developer tools
+* Interested in defense tech and fraud detection
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
-```bash
-Languages: Python, C++, SQL, JavaScript, TypeScript
-Frameworks: React, Node.js, Flask, FastAPI, Flutter
-ML: PyTorch, TensorFlow, Scikit-learn, XGBoost, Transformers
-Tools: Docker, Kubernetes, AWS, Git, Jenkins
-Databases: MySQL, PostgreSQL, MongoDB, Supabase
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,flask,fastapi,docker,kubernetes,aws,mysql,postgres,mongodb&perline=7" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Work
 
-### 🌍 FRTS — AI Terrain Awareness System
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swrjks&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swrjks&theme=tokyonight" />
+</p>
 
-* 3D terrain mapping using satellite + elevation data
-* A*, Dijkstra-based pathfinding for mission planning
-* Built for real-time terrain intelligence
+### FRTS — AI Terrain Awareness System
 
-🔗 Demo: https://youtube.com/playlist?list=PLyzYHu4D0eIIX812xxfSjSJ3n5Nmcdi65
-
----
-
-### 🔐 SecYour — Behavioral Fraud Detection SDK
-
-* Detects fraud using user interaction patterns
-* Uses anomaly detection + behavioral biometrics
-* Designed for mobile banking integration
-
-🔗 Demo: https://youtu.be/6GCXxCAfIqU
+* 3D terrain mapping using satellite and elevation data
+* A* and Dijkstra-based pathfinding for route planning
+* Designed for real-time terrain intelligence
+  Demo: https://youtube.com/playlist?list=PLyzYHu4D0eIIX812xxfSjSJ3n5Nmcdi65
 
 ---
 
-### 🛡️ SentinelMind — SOC Analysis Platform
+### SecYour — Behavioral Fraud Detection SDK
 
-* Security log analysis + visualization
-* Multi-source log correlation engine
-* Rule-based + heuristic threat detection
-
-🔗 Demo: https://youtu.be/ep3N_wRwrlI
+* Fraud detection using behavioral interaction patterns
+* Anomaly detection on touch, navigation, and latency
+* Designed for mobile banking environments
+  Demo: https://youtu.be/6GCXxCAfIqU
 
 ---
 
-### 🌐 PhishFree — Phishing Detection Extension
+### SentinelMind — SOC Analysis Platform
+
+* Security log analysis and visualization system
+* Multi-source correlation engine
+* Rule-based and heuristic threat detection
+  Demo: https://youtu.be/ep3N_wRwrlI
+
+---
+
+### PhishFree — Phishing Detection Extension
 
 * Real-time phishing detection in browser
-* CNN + GNN for DOM + visual analysis
-* Lightweight and fast inference
-
-🔗 Live: https://phishfree.vercel.app/
+* CNN and GNN for DOM and visual analysis
+  Live: https://phishfree.vercel.app/
 
 ---
 
-### 📊 Campus Sync — ERP Analytics Platform
+### Campus Sync — ERP Analytics Platform
 
 * Aggregates and analyzes academic ERP data
-* Automated scraping pipelines
-* Performance dashboards
+* Automated scraping and analytics dashboards
 
 ---
 
-### 🧮 NumeriML — ML + Math Solver
+### NumeriML — ML and Math Solver
 
-* Solves ML problems and advanced math
-* Built for fast computation and learning
-
-🔗 Live: https://numeriml.vercel.app
+* Solves ML problems and advanced mathematical computations
+  Live: https://numeriml.vercel.app
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=swrjks&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swrjks&theme=tokyonight" />
 </p>
 
----
-
-## 🧩 What I’m Currently Working On
-
-* Behavior-based fraud detection systems (PhishSafe)
-* ML model deployment on edge devices
-* AI-driven security and anomaly detection
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swrjks&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swrjks&theme=tokyonight&utcOffset=5.5" />
+</p>
 
 ---
 
-## ⚡ Fun Section
+## Current Focus
 
-> I like building systems that observe, learn, and react
-> If it involves data + intelligence + real-world impact, I'm in
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Behavioral+Fraud+Detection;Edge+ML+Deployment;Security+Systems;Real-time+AI&center=true&width=520&height=40">
+</p>
+
+* Behavior-based fraud detection systems
+* Edge deployment of ML models
+* Security and anomaly detection pipelines
 
 ---
 
-## 📫 Connect
+## Contact
 
-* GitHub: https://github.com/swrjks
-* LinkedIn: https://linkedin.com/in/swarajkumar1
+<p align="center">
+  <a href="https://github.com/swrjks">GitHub</a> •
+  <a href="https://linkedin.com/in/swarajkumar1">LinkedIn</a>
+</p>
