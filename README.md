@@ -118,15 +118,31 @@ philosophy: "Building intelligent systems that make a difference"
 
 <div align="center">
 
-| 🤖 AI & ML | 🔒 Security | ⚙️ Systems | 🚀 Innovation |
-|:---:|:---:|:---:|:---:|
-| Behavioral Analysis | System Architecture | Distributed Systems | Research |
-| Fraud Detection | Threat Detection | Real-time Processing | Open Source |
-| Edge Deployment | Secure Design | Performance Optimization | Problem Solving |
+```mermaid
+mindmap
+  root((Swaraj's Focus))
+    AI & ML
+      Behavioral Analysis
+      Fraud Detection
+      Edge Deployment
+    Security
+      System Architecture
+      Threat Detection
+      Secure Design
+    Systems
+      Distributed Systems
+      Real-time Processing
+      Performance Optimization
+    Innovation
+      Research
+      Open Source
+      Problem Solving
+```
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 ## 📫 Let's Connect
