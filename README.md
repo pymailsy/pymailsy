@@ -42,6 +42,10 @@
 
 ## GitHub Analytics
 
+<p align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swrjks&theme=tokyonight" />
+</p>
 
 
 <p align="center">
