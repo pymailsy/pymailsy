@@ -20,7 +20,6 @@
 * Computer Science undergraduate (2023–2027)
 * Focus: Machine Learning, Systems, Cybersecurity
 * Building real-world AI systems and developer tools
-* Interested in defense tech and fraud detection
 
 ---
 
@@ -61,15 +60,4 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Behavioral+Fraud+Detection;Edge+ML+Deployment;Security+Systems;Real-time+AI&center=true&width=520&height=40">
 </p>
 
-* Behavior-based fraud detection systems
-* Edge deployment of ML models
-* Security and anomaly detection pipelines
 
----
-
-## Contact
-
-<p align="center">
-  <a href="https://github.com/swrjks">GitHub</a> •
-  <a href="https://linkedin.com/in/swarajkumar1">LinkedIn</a>
-</p>
