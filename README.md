@@ -27,12 +27,6 @@ name: Swaraj Kumar
 located_in: Bengaluru, Karnataka, India
 education: Computer Science Undergraduate (2023-2027)
 
-current_focus:
-  - "Behavioral Fraud Detection with ML"
-  - "Edge ML Deployment & Optimization"
-  - "Security Systems Architecture"
-  - "Real-time AI Applications"
-
 interests: ["Machine Learning", "Cybersecurity", "Distributed Systems", "AI Research"]
 
 philosophy: "Building intelligent systems that make a difference"
