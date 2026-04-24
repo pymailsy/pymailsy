@@ -35,7 +35,7 @@ philosophy: "Building intelligent systems that make a difference"
 <div align="center">
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swrjks&custom_title=Swaraj's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=FF6B9D&point=FFFFFF&area_color=00D9FF&title_color=FFFFFF&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swrjks&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=FF6B9D&point=FFFFFF&area_color=00D9FF&title_color=FFFFFF&area=true" />
 
 </div>
 
@@ -110,7 +110,7 @@ philosophy: "Building intelligent systems that make a difference"
 
 ```mermaid
 mindmap
-  root((Swaraj's Focus))
+  root((Explored so far))
     AI & ML
       Behavioral Analysis
       Fraud Detection
