@@ -89,7 +89,7 @@ philosophy: "Building intelligent systems that make a difference"
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=swrjks&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B9D&text_color=FFFFFF" />
@@ -104,7 +104,7 @@ philosophy: "Building intelligent systems that make a difference"
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## 🎯 Current Mission
+## Current Mission
 
 <div align="center">
 
@@ -132,17 +132,6 @@ mindmap
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swarajkumar1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swarajkmrsahu@gmail.com)
-
-</div>
 
 <div align="center">
 
