@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Effect with Custom Styling -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🤖+AI+Engineer+%26+Researcher;🔒+Security+Systems+Builder;⚡+ML+%26+Systems+Architect;🚀+Innovation+Enthusiast&font=Fira%20Code&center=true&width=600&height=50&color=00D9FF&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+%26+Researcher;Security+Systems+Builder;ML+%26+Systems+Architect;Innovation+Enthusiast&font=Fira%20Code&center=true&width=600&height=50&color=00D9FF&vCenter=true&pause=1000&size=22" />
 </p>
 
 <!-- Badges with Animation -->
@@ -125,26 +125,11 @@ philosophy: "Building intelligent systems that make a difference"
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Swaraj's Focus))
-    AI & ML
-      Behavioral Analysis
-      Fraud Detection
-      Edge Deployment
-    Security
-      System Architecture
-      Threat Detection
-      Secure Design
-    Systems
-      Distributed Systems
-      Real-time Processing
-      Performance Optimization
-    Innovation
-      Research
-      Open Source
-      Problem Solving
-```
+| 🤖 AI & ML | 🔒 Security | ⚙️ Systems | 🚀 Innovation |
+|:---:|:---:|:---:|:---:|
+| Behavioral Analysis | System Architecture | Distributed Systems | Research |
+| Fraud Detection | Threat Detection | Real-time Processing | Open Source |
+| Edge Deployment | Secure Design | Performance Optimization | Problem Solving |
 
 </div>
 
@@ -153,7 +138,7 @@ mindmap
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/swrjks/swrjks/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/swrjks/swrjks/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -163,9 +148,7 @@ mindmap
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swrjks)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/swrjks)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://swrjks.dev)
 
 </div>
 
