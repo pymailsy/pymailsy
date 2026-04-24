@@ -45,9 +45,10 @@ philosophy: "Building intelligent systems that make a difference"
 
 <div align="center">
 
+
 ### AI/ML & Data
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 </p>
 
 <table>
