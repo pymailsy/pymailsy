@@ -39,53 +39,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swrjks&theme=tokyonight" />
 </p>
 
-### FRTS — AI Terrain Awareness System
-
-* 3D terrain mapping using satellite and elevation data
-* A* and Dijkstra-based pathfinding for route planning
-* Designed for real-time terrain intelligence
-  Demo: https://youtube.com/playlist?list=PLyzYHu4D0eIIX812xxfSjSJ3n5Nmcdi65
-
----
-
-### SecYour — Behavioral Fraud Detection SDK
-
-* Fraud detection using behavioral interaction patterns
-* Anomaly detection on touch, navigation, and latency
-* Designed for mobile banking environments
-  Demo: https://youtu.be/6GCXxCAfIqU
-
----
-
-### SentinelMind — SOC Analysis Platform
-
-* Security log analysis and visualization system
-* Multi-source correlation engine
-* Rule-based and heuristic threat detection
-  Demo: https://youtu.be/ep3N_wRwrlI
-
----
-
-### PhishFree — Phishing Detection Extension
-
-* Real-time phishing detection in browser
-* CNN and GNN for DOM and visual analysis
-  Live: https://phishfree.vercel.app/
-
----
-
-### Campus Sync — ERP Analytics Platform
-
-* Aggregates and analyzes academic ERP data
-* Automated scraping and analytics dashboards
-
----
-
-### NumeriML — ML and Math Solver
-
-* Solves ML problems and advanced mathematical computations
-  Live: https://numeriml.vercel.app
-
 ---
 
 ## GitHub Analytics
