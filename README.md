@@ -1,153 +1,65 @@
-<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Akshita Pathak</h1>
-
-<h3 align="center">A Final Year Computer Engineering Undergrad</h3>
-
-<div>
-  
-  
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=akshiita07&label=Profile%20views&color=blueviolet&style=plastic)
-  [![GitHub followers](https://img.shields.io/github/followers/akshiita07)](https://github.com/akshiita07?tab=followers)
-  
-  
-  
-</div>
-
-
-<!--- 🧑🏻‍💻 Upcoming SEP Intern @ JPMorgan-->
-- 💻 I’m currently working on full-stack projects and learning how to leverage *AI and ML* in my projects.
-- 🌱 Will be delving into iOS and android development soon.
-- 📫 How to reach me: **pathakshita07@gmail.com**
-- ⚡ Fun fact: I have an equally comparable streak on <a href="https://www.duolingo.com/profile/akshitapathak07?via=share_profile_qr" target="_blank"><img align="center" target="_blank" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" height="30" width="80" /></a>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> **Let's Connect**  
-
-<p align="left">
-<a href="mailto:pathakshita07@gmail.com"  target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="akshiita07" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/akshitapathak/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="akshiita07" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/akshitapathak/"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshiita07" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/akshitapathak/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akshiita07" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/AkshitaPathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="AkshitaPathak" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_akshitapathak/"  target="_blank"><img align="center"  src="https://skillicons.dev/icons?i=instagram" alt="akshiita07" height="30" width="40" /></a>
-
-</p>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="Hammer and Wrench" width="30" height="30" /> **Tech Arsenal**  
-
-### Programming Languages
-<p >
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,java,jquery" />
-</p>
-
-
-### Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-</p>
-
-### Dev Tools:
-<p >
-  <img src="https://skillicons.dev/icons?i=react,expressjs,nodejs,bootstrap,tailwind,postman,npm,pug,selenium,flask,flutter,spring" />
-</p>
-
-### Databases
-<p >
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="48" height="48"/>
-</p>
-
-### Android App Dev
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
-</p>
-
-### Tools & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,netlify,vscode,matlab,ps,autocad,aws,anaconda,linux,maven,pycharm,arduino,stackoverflow,ubuntu" />
-</p>
-
-
-<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats:</h3>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshiita07&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en&layout=compact" alt="akshiita07" /></p>
-
-<br>
-<br><br>
-<br><br>
-<br><br>
-<br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akshiita07&theme=highcontrast" alt="akshiita07" /></p>
-
-<br>
-<br><br>
-<br><br>
-<br>
-<br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akshiita07&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en" alt="akshiita07" /></p>
-<br>
-<br><br>
-<br><br>
-<br><br>
-<br>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> **Leetcode Info**
-<details>
-  <summary>View Here</summary>
+<!DOCTYPE html>
+<html lang="en">
+<body>
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=F77D2A&center=true&vCenter=true&random=true&width=438&lines=Hey%F0%9F%91%8B%2C+I'm+Shrestha!;Welcome+to+my+github.;Happy+stalking+%3A)" alt="Typing SVG" />
+    </a>
+  </p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Profile GIF">
   <br>
-  <!-- 50 days -->
-  <a href="https://leetcode.com/akshitapathak/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="akshita50" height="200" width="200" />
-  </a>
-
-  <!-- 100 days -->
-  <a href="https://leetcode.com/akshitapathak/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="akshita100"  height="200" width="200"/>
-  </a>
+  
+  ###  🦊 Languages & Technologies I know:
+ 
+  <ul>
+    <li>Python | Java | Bash</li>
+    <li>HTML | CSS | JavaScript</li>
+    <li>React | Angularjs | Django | Nextjs</li>
+  
+  </ul>
   
 
-  <!-- 200 days -->
+  <h2>🔭 Current Endeavors</h2>
   
-  <!-- 365 days -->
-  <a href="https://leetcode.com/akshitapathak/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="akshita365"  height="200" width="200"/>
-  </a>
+  #### I'm currently building my portfolio. Here's what I'm currently focused on:
+  
+  <ul>
+    <li>I'm engaged in exciting Fullstack projects.</li>
+    <li>I'm also exploring Machine learning and Artificial intellingence projects to enhance my skill set.</li>
+  
+  </ul> 
+<table align="center">
+<tr>
+<td width="50%" align="center">
+  <img  align="center"  src="https://streak-stats.demolab.com?user=shresthacodes&theme=dark-smoky&exclude_days=Sat" />
+  <br><br>
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=shresthacodes&theme=graywhite&show_icons=true" /> 
+</td>
+  
+<td width="50%" align="center">
+ 
+  <br><br>
+  <a href="https://github.com/shresthacodes">
+ <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresthacodes&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> 
+</a>
+ <br><br>
+  </td>
+</tr>
+</table>
 
-  <br>
-
-  <img align="top" src="https://leetcard.jacoblin.cool/akshitapathak?theme=dark&font=Nunito&ext=heatmap" />
-</details>
-
-<!-- <p align="center"> <img src="https://raw.githubusercontent.com/arshiyaakishore/snake-for-readme/main/snakegame.svg" alt="Snake animation" /> </p>-->
-
-<!-- graph -->
-<!-- <p>&nbsp;<img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=akshiita07&theme=react-dark"  alt="akshiita07" /></p> -->
-
-<br>
-
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazg1MnprbmVrYzZmYmExYXl3OGsyMDBkdXJxbzYwa3F6dWs4b2Z6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4LwJFSVKUsOLsZIbpj/giphy.gif" alt="Badge" width="30" height="30" /> **Badges**  
-
-<div align="left">
-  <a href="https://www.credly.com/badges/be5f2810-4fce-450d-97b9-b76f636fcf42">
-    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100">
-  </a>
+  <h2>📫 Socials</h2>
+  
+ - 📫 How to reach me **theshrestharaj@gmail.com**
+ - ☀︎ Let's Connect on linkedin: [https://www.linkedin.com/in/shrestha-raj/](https://www.linkedin.com/in/shrestha-raj/)
+   
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Profile GIF">
+  <div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Vistors:</h2></summary>
+  </ul>
 </div>
-
-<br>
-<br>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-  [![Akshita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshiita07&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</div>
-
-<!--<p><a href="https://buymeacoffee.com/akshiita07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akshita buy coffee" /></a></p><br><br>-->
-
-
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=1000&section=footer"/>
-</p>
+  <p align="center">
+    <img align="center" src="https://profile-counter.glitch.me/shresthacodes/count.svg" alt="Visitor Counter" />
+  </p>
+</body>
+</html>
